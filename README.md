@@ -34,7 +34,7 @@ El sistema utiliza SQL Server para gestionar la información de los productos.
 | Precio | Precio del producto |
 | Stock | Cantidad disponible |
 
-## 🔄 Operaciones CRUD
+##  Operaciones CRUD
 
 | Operación | Descripción |
 |---|---|
