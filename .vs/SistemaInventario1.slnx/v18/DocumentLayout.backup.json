@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Beatr\\source\\repos\\SistemaInventario1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE9C859-B14E-4953-B769-980B0CF47823}|SistemaInventario1\\SistemaInventario1.csproj|c:\\users\\beatr\\source\\repos\\sistemainventario1\\sistemainventario1\\datos\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE9C859-B14E-4953-B769-980B0CF47823}|SistemaInventario1\\SistemaInventario1.csproj|solutionrelative:sistemainventario1\\datos\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE9C859-B14E-4953-B769-980B0CF47823}|SistemaInventario1\\SistemaInventario1.csproj|c:\\users\\beatr\\source\\repos\\sistemainventario1\\sistemainventario1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DFE9C859-B14E-4953-B769-980B0CF47823}|SistemaInventario1\\SistemaInventario1.csproj|solutionrelative:sistemainventario1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFE9C859-B14E-4953-B769-980B0CF47823}|SistemaInventario1\\SistemaInventario1.csproj|C:\\Users\\Beatr\\source\\repos\\SistemaInventario1\\sistemainventario1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFE9C859-B14E-4953-B769-980B0CF47823}|SistemaInventario1\\SistemaInventario1.csproj|solutionrelative:sistemainventario1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConexionDB.cs",
+              "DocumentMoniker": "C:\\Users\\Beatr\\source\\repos\\SistemaInventario1\\SistemaInventario1\\Datos\\ConexionDB.cs",
+              "RelativeDocumentMoniker": "SistemaInventario1\\Datos\\ConexionDB.cs",
+              "ToolTip": "C:\\Users\\Beatr\\source\\repos\\SistemaInventario1\\SistemaInventario1\\Datos\\ConexionDB.cs",
+              "RelativeToolTip": "SistemaInventario1\\Datos\\ConexionDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T19:17:43.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Beatr\\source\\repos\\SistemaInventario1\\SistemaInventario1\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaInventario1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Beatr\\source\\repos\\SistemaInventario1\\SistemaInventario1\\Form1.cs",
+              "RelativeToolTip": "SistemaInventario1\\Form1.cs",
+              "ViewState": "AgIAAPMAAAAAAAAAAAAmwAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T02:59:14.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Beatr\\source\\repos\\SistemaInventario1\\SistemaInventario1\\Form1.cs",
+              "RelativeDocumentMoniker": "SistemaInventario1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Beatr\\source\\repos\\SistemaInventario1\\SistemaInventario1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SistemaInventario1\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T23:46:47.082Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
